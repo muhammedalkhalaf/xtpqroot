@@ -1,0 +1,27 @@
+Package: xtpqroot
+Type: Package
+Title: Panel Quantile Unit Root Tests with Common Shocks and Structural Breaks
+Version: 1.0.0
+Authors@R: person("Muhammad", "Alkhalaf", email = "muhammedalkhalaf@gmail.com",
+    role = c("aut", "cre", "cph"),
+    comment = c(ORCID = "0009-0002-2677-9246"))
+Description: Implements two panel unit root tests designed for data with
+    cross-sectional dependence. The CIPS(tau) test extends Pesaran's (2007)
+    CIPS test to a quantile regression framework, allowing analysis of
+    asymmetric persistence across different quantiles of the conditional
+    distribution, following Yang, Wei and Cai (2022)
+    <doi:10.1016/j.econlet.2022.110809> and Nazlioglu et al. (2026). The tFR
+    test combines the fractional Fourier function with the logistic smooth
+    transition (LST) function to capture both smooth and sharp structural
+    breaks simultaneously, following Corakci and Omay (2023)
+    <doi:10.1016/j.renene.2023.01.060>. The panel must be strongly balanced.
+License: GPL-3
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 7.3.2
+Depends: R (>= 3.5.0)
+Imports: stats
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+URL: https://github.com/muhammedalkhalaf/xtpqroot
+BugReports: https://github.com/muhammedalkhalaf/xtpqroot/issues
