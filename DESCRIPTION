@@ -14,7 +14,7 @@ Description: Implements two panel unit root tests designed for data with
     test combines the fractional Fourier function with the logistic smooth
     transition (LST) function to capture both smooth and sharp structural
     breaks simultaneously, following Corakci and Omay (2023)
-    <doi:10.1016/j.renene.2023.01.060>. The panel must be strongly balanced.
+    <doi:10.1016/j.renene.2023.01.119>. The panel must be strongly balanced.
 License: GPL-3
 Encoding: UTF-8
 LazyData: false

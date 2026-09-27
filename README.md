@@ -46,7 +46,7 @@ print(res2)
 - Yang, Z., Wei, Z. & Cai, Y. (2022). Econ. Letters, 219, 110809.
   <https://doi.org/10.1016/j.econlet.2022.110809>
 - Corakci, A. & Omay, T. (2023). Renewable Energy, 205, 648–662.
-  <https://doi.org/10.1016/j.renene.2023.01.060>
+  <https://doi.org/10.1016/j.renene.2023.01.119>
 - Pesaran, M.H. (2007). J. Appl. Econometrics, 22, 265–312.
   <https://doi.org/10.1002/jae.951>
 
